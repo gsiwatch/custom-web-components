@@ -1,7 +1,6 @@
 {
   "name": "demo-component",
   "description": "Webcomponent demo-component following open-wc recommendations",
-  "license": "MIT",
   "author": "demo-component",
   "version": "0.0.0",
   "scripts": {
