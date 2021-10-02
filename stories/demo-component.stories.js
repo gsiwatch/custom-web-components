@@ -1,5 +1,5 @@
 import { html } from 'lit';
-import '../src/demo-component.js';
+import '../src/index.js';
 
 export default {
   title: 'DemoComponent',
