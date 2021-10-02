@@ -1,8 +1,8 @@
 {
-  "name": "demo-component",
-  "description": "Webcomponent demo-component following open-wc recommendations",
-  "author": "demo-component",
-  "version": "0.0.0",
+  "name": "custom-web-components",
+  "description": "Webcomponents",
+  "author": "gsiwatch",
+  "version": "1.0.0",
   "scripts": {
     "lint": "eslint --ext .ts,.html . --ignore-path .gitignore && prettier \"**/*.ts\" --check --ignore-path .gitignore",
     "format": "eslint --ext .ts,.html . --fix --ignore-path .gitignore && prettier \"**/*.ts\" --write --ignore-path .gitignore",
